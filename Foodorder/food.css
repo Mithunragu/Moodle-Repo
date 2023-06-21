@@ -1,0 +1,21 @@
+h5{
+    font-family: 'Bree Serif', serif;
+}
+.First{
+    height: 300px;
+    width: 800px;
+    color: #323f4b;
+    width: 18rem;
+}
+.Ty{
+    font-family: 'Roboto', sans-serif;
+}
+.Uone{
+    background-color: #f6c56e;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: -50px;
+}
+.btn{
+    background-color:#ffffff ;
+}
