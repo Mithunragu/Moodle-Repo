@@ -1,0 +1,18 @@
+.container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    height: 800px;
+    width: 500px;
+    color: #ffffff;
+    font-family: 'Bree Serif', serif;
+    padding-top: 300px;
+padding-bottom: 90px;
+padding-left: 30px;
+padding-right: 30px;
+}
+.One{
+    background-color: #00000080;
+    border: 5px solid #48ee59;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 40px;
+}
